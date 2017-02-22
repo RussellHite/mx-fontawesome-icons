@@ -1,5 +1,5 @@
 # mx-fontawesome-icons
-Font Awesome Font converted for use in Mendix
+Font Awesome 4.7.0 icon font converted for use in Mendix
 View icons: http://fontawesome.io/icons/
 
 ## Prerequisites
